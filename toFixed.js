@@ -1,0 +1,10 @@
+var a = 50;
+var b = 5.6;
+var c = a * b;
+// console.log(c);
+// console.log(c.toFixed(2));
+var q1 = .1;
+var q2 = .2;
+var total = q1 + q2;
+// console.log(total);
+console.log(total.toFixed(3));
